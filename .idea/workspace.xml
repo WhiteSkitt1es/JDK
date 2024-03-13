@@ -1,41 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d7a8787-b0e2-455b-9a0d-e4846e70b28e" name="Changes" comment="" />
+    <list default="true" id="5d7a8787-b0e2-455b-9a0d-e4846e70b28e" name="Changes" comment="Task 1 completed">
+      <change afterPath="$PROJECT_DIR$/src/task3/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task3/CalculatorProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task3/CompareProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task3/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task3/PairProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task1_2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task1/client/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task1_2/client/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task1/client/ClientGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task1_2/client/ClientGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task1/client/ClientView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task1_2/client/ClientView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task1/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/task1_2/log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task1/repo/RepoFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task1_2/repo/RepoFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task1/repo/RepoInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task1_2/repo/RepoInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task1/server/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task1_2/server/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task1/server/ServerView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task1_2/server/ServerView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task1/server/ServerWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task1_2/server/ServerWindow.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2dRcpxDjM0QEwFqU4Z6o0Jc1YNk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/white_skittles/IdeaProjects/JDK/src/task1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/task1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/task1" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task1.Main" />
+      <option name="MAIN_CLASS_NAME" value="task1_2.Main" />
       <module name="JDK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task1.*" />
+          <option name="PATTERN" value="task1_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,11 +106,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709974517465</updated>
-      <workItem from="1709974518510" duration="1000" />
+      <workItem from="1709974518510" duration="1195000" />
+      <workItem from="1709975717881" duration="953000" />
+      <workItem from="1710360605710" duration="620000" />
+      <workItem from="1710361281203" duration="17000" />
+      <workItem from="1710361347585" duration="367000" />
     </task>
+    <task id="LOCAL-00001" summary="Task 1 completed">
+      <option name="closed" value="true" />
+      <created>1709974985354</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709974985354</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Task 1 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 1 completed" />
   </component>
 </project>

@@ -1,6 +1,6 @@
-package task1.client;
+package task1_2.client;
 
-import task1.server.ServerWindow;
+import task1_2.server.ServerWindow;
 
 import javax.swing.*;
 import java.awt.*;

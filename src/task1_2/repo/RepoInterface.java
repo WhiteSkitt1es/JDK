@@ -1,4 +1,4 @@
-package task1.repo;
+package task1_2.repo;
 
 import java.io.IOException;
 

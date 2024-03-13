@@ -1,6 +1,6 @@
-package task1.client;
+package task1_2.client;
 
-import task1.server.Server;
+import task1_2.server.Server;
 
 public class Client {
     private final ClientView clientView;

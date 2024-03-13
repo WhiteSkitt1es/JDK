@@ -1,7 +1,7 @@
-package task1.server;
+package task1_2.server;
 
-import task1.client.Client;
-import task1.repo.RepoInterface;
+import task1_2.client.Client;
+import task1_2.repo.RepoInterface;
 
 import java.io.IOException;
 import java.util.ArrayList;

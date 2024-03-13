@@ -1,6 +1,6 @@
-package task1.server;
+package task1_2.server;
 
-import task1.repo.RepoFile;
+import task1_2.repo.RepoFile;
 
 import javax.swing.*;
 import java.awt.*;

@@ -1,7 +1,7 @@
-package task1;
+package task1_2;
 
-import task1.client.ClientGUI;
-import task1.server.ServerWindow;
+import task1_2.client.ClientGUI;
+import task1_2.server.ServerWindow;
 
 public class Main {
     public static void main(String[] args) {
