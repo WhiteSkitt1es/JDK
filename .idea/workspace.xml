@@ -4,8 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d7a8787-b0e2-455b-9a0d-e4846e70b28e" name="Changes" comment="Task 3 completed">
+    <list default="true" id="5d7a8787-b0e2-455b-9a0d-e4846e70b28e" name="Changes" comment="Task 4 completed">
+      <change afterPath="$PROJECT_DIR$/src/task5/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task5/forks/Fork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task5/forks/Fork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task5/forks/ForksList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task5/forks/ForksList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task5/philosophers/Philosopher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task5/philosophers/Philosopher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task5/philosophers/PhilosopherList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task5/philosophers/PhilosopherList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task5/service/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task5/service/Service.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task5/table/Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task5/table/Table.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +29,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;WhiteSkitt1es&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="f53cc8b8-41cd-4bf2-a54a-d9de3fbfa1c6" />
+        <option name="url" value="https://github.com/WhiteSkitt1es/JDK.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -53,6 +74,8 @@
       <recent name="$PROJECT_DIR$/src/task1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/task5" />
+      <recent name="$PROJECT_DIR$/src/task4" />
       <recent name="$PROJECT_DIR$/src/task1" />
     </key>
   </component>
@@ -98,6 +121,9 @@
       <workItem from="1710361347585" duration="409000" />
       <workItem from="1710513791064" duration="78000" />
       <workItem from="1710517214580" duration="1000" />
+      <workItem from="1711033144224" duration="519000" />
+      <workItem from="1711033667982" duration="680000" />
+      <workItem from="1711035652782" duration="279000" />
     </task>
     <task id="LOCAL-00001" summary="Task 1 completed">
       <option name="closed" value="true" />
@@ -115,7 +141,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710361742620</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Task 4 completed">
+      <option name="closed" value="true" />
+      <created>1711033618366</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711033618366</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +158,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Task 1 completed" />
     <MESSAGE value="Task 3 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 3 completed" />
+    <MESSAGE value="Task 4 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 4 completed" />
   </component>
 </project>
